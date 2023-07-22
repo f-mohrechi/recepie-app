@@ -1,0 +1,121 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Vegetarian ramen",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2022/07/Vegetarian-ramen-0c0831e.jpg?quality=90&webp=true&resize=300,272",
+      "ingredients": [
+        { "name": "spring onions" },
+        { "name": "pak choi" },
+        { "name": "egg" },
+        { "name": "sesame seeds" },
+        { "name": "chilli sauce" }
+      ],
+      "servings": 1,
+      "description": "Rustle up this warming veggie ramen in just 15 minutes. Think of it as healthy fast food – it's low-fat, low-calorie and low-cost as well.",
+      "tags": [
+        "ramen",
+        "15-minute-meals",
+        "beef-free",
+        "chicken-free",
+        "dairy-free",
+        "eggs",
+        "fish-free",
+        "gluten-free",
+        "one-pot-meals",
+        "snacks",
+        "soy-free",
+        "fast food"
+      ],
+      "cookTime": "10 mins"
+    },
+    {
+      "id": "2",
+      "title": "Quick chicken hummus bowl",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/quick-chicken-and-hummus-bowl-3863168.jpg?quality=90&webp=true&resize=300,272",
+      "ingredients": [
+        { "name": "hummus" },
+        { "name": "small lemon" },
+        { "name": "pouch cooked mixed grains" },
+        { "name": " baby spinach" },
+        { "name": " small avocado" },
+        { "name": " chicken breast" },
+        { "name": "pomegranate seeds" },
+        { "name": " red onion" },
+        { "name": "toasted almonds" }
+      ],
+      "servings": 2,
+      "description": "Make our healthy chicken and hummus salad bowl for a delicious budget lunch option. It can be thrown together in just 10 minutes and delivers three of your 5-a-day",
+      "tags": [
+        "salad",
+        "ramen",
+        "15-minute-meals",
+        "beef-free",
+        "chicken",
+        "dairy-free",
+        "eggs",
+        "fish-free",
+        "soy-free",
+        "fast food"
+      ],
+
+      "cookTime": "10 mins"
+    },
+    {
+      "id": "3",
+      "title": "10-minute couscous salad",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/couscous-9ab75f0.jpg?quality=90&webp=true&resize=300,272",
+      "ingredients": [
+        { "name": "couscous" },
+        { "name": "vegetable stock " },
+        { "name": "spring onions" },
+        { "name": "red pepper" },
+        { "name": "cucumber" },
+        { "name": "feta cheese" },
+        { "name": "pesto" },
+        { "name": "pine nuts" }
+      ],
+      "servings": 2,
+      "description": "This makes a great lunchbox filler for a day out and is equally good at home from the fridge",
+      "tags": [
+        "couscous",
+        "pine nuts",
+        "onions",
+        "salad",
+        "feta",
+        "pesto",
+        "vegetable"
+      ],
+      "cookTime": "10 mins"
+    },
+    {
+      "id": "4",
+      "title": "Speedy sausage stroganoff tagliatelle",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/speedy-sausage-stroganoff-tagliatelle-a4653e7.jpg?quality=90&webp=true&resize=300,272",
+      "ingredients": [
+        { "name": "unsalted butter" },
+        { "name": "olive oil" },
+        { "name": "chestnut mushrooms" },
+        { "name": "sweet smoked paprika" },
+        { "name": "soured cream" },
+        { "name": "wholegrain mustard" },
+        { "name": "beef stock" },
+        { "name": "dried tagliatelle" },
+        { "name": "parsley" }
+      ],
+      "servings": "15 mins",
+      "description": "Make our budget-friendly quick sausage stroganoff tagliatelle for a simple family dinner. This filling bowl takes just five minutes to prepare",
+      "tags": [
+        " parsley",
+        "tagliatelle",
+        "mustard",
+        "mushrooms",
+        "butter",
+        "olive",
+        "cream",
+        "beef"
+      ],
+      "cookTime": 2
+    }
+  ]
+}
